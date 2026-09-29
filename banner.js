@@ -154,7 +154,7 @@ clarityConfig: {
             blurDensity: '5px'      // Control blur intensity
         },
         
-        showFloatingButton: false,
+        showFloatingButton: true,
         showAdminButton: false,
         floatingButtonPosition: 'left',
         adminButtonPosition: 'left',
